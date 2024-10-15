@@ -9,4 +9,4 @@ WindowsAPI
 <hr>
 - 영상
 <br>
-<img src="https://github.com/user-attachments/assets/f61ba189-708a-4a2b-b0ba-40814b18e3c5">
+<img src="https://github.com/user-attachments/assets/97814b59-5220-4b04-a2ff-84b73fdc6b13">
