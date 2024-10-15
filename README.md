@@ -9,4 +9,4 @@
 <hr>
 - 영상
 <br>
-<img src="https://github.com/user-attachments/assets/7932e147-b1cb-48c0-ab90-50fdfdd4c05f">
+<img src="https://github.com/user-attachments/assets/f61ba189-708a-4a2b-b0ba-40814b18e3c5">
